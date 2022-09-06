@@ -1,0 +1,8 @@
+| alternatifi belirtir(iki alternatifden biri).
+* önceki ö?enin s?f?r veya daha fazla tekrar?n? belirtir.
++  önceki ö?enin bir veya daha fazla kez tekrar?n? belirtir.
+?  önceki ö?enin s?f?r veya bir kez tekrar?n? belirtir.
+{m} önceki ö?enin tam olarak m kez tekrar?n? belirtir .
+{m,} önceki ö?enin m veya daha fazla kez tekrar?n? belirtir .
+{m,n} önceki ö?enin en az m ve en fazla n kez tekrar?n? ifade eder.
+() Ö?eleri tek bir mant?ksal ö?ede gruplamak için parantezler kullan?labilir .
